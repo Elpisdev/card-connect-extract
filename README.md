@@ -1,5 +1,5 @@
 # card-connect-extract
-Extract assets from CARD CONNECT with ease.
+Extract assets from KONAMI's CARD CONNECT with ease.
 
 
 Step 1:
